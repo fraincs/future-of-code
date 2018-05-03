@@ -4,10 +4,14 @@
     "description": "A readable color theme made for humans",
     "version": "0.1.0",
     "publisher": "fraincs",
-    "icon": "images/icon.png",
+    "icon": "https://raw.githubusercontent.com/fraincs/future-of-code/master/images/icon.png",
     "galleryBanner": {
         "color": "#F77F4F",
         "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/fraincs/future-of-code/issues",
+        "email": "francisthibault@gmail.com"
     },
     "engines": {
         "vscode": "^1.22.0"
