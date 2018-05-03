@@ -1,0 +1,27 @@
+{
+    "name": "future-of-code",
+    "displayName": "Future of code",
+    "description": "A readable color theme made for humans",
+    "version": "0.1.0",
+    "publisher": "fraincs",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#F77F4F",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Future of Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Future of Code-color-theme.json"
+            }
+        ]
+    }
+}
