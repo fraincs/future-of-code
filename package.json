@@ -2,9 +2,9 @@
     "name": "future-of-code",
     "displayName": "Future of code",
     "description": "A readable color theme made for humans",
-    "version": "0.1.0",
+    "version": "0.4.0",
     "publisher": "fraincs",
-    "icon": "https://raw.githubusercontent.com/fraincs/future-of-code/master/images/icon.png",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#F77F4F",
         "theme": "dark"
@@ -15,6 +15,10 @@
     },
     "engines": {
         "vscode": "^1.22.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fraincs/future-of-code"
     },
     "categories": [
         "Themes"
